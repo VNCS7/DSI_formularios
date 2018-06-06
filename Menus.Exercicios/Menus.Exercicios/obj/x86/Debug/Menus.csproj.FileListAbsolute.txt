@@ -1,0 +1,18 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Menus\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.exe
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.pdb
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\menus-csharp-master\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+G:\menus-csharp-master\Menus\bin\Debug\Menus.exe
+G:\menus-csharp-master\Menus\bin\Debug\Menus.pdb

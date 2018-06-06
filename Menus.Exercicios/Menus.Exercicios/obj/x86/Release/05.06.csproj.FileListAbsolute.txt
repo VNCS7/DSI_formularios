@@ -1,0 +1,14 @@
+G:\menus-csharp-master\Menus\bin\Release\Menus.exe
+G:\menus-csharp-master\Menus\bin\Release\Menus.pdb
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.ex3.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.ex4.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.ex5.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.ex6.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.ex7.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.frmMenu.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.frmTeste1.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.frmTeste2.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.Properties.Resources.resources
+G:\menus-csharp-master\Menus\obj\x86\Release\05.06.csproj.GenerateResource.Cache
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.exe
+G:\menus-csharp-master\Menus\obj\x86\Release\Menus.pdb
